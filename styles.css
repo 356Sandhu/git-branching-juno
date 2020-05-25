@@ -300,3 +300,8 @@ textarea {
   clip: rect(00 0 0);
   overflow: hidden;
 }
+
+body{
+background-color: aliceblue;
+
+}
